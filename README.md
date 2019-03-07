@@ -1,0 +1,1 @@
+How to Install and use SDL on Windows with GCC(Mingw) and SDL1

@@ -1,0 +1,6 @@
+1) Install mingw
+2) Download SDL-1.2-mingw-devel (may have tar.gz extension)
+3) Extract until having SDL1.2
+4) Copy each content of SDL1.2: bin, include and lib in Mingw installation folder
+
+main need to be defined to work => #define main SDL_main
